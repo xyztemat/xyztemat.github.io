@@ -4,4 +4,10 @@ var store = [{
         "tags": [],
         "url": "/jekyll/update/2024/12/01/welcome-to-jekyll.html",
         "teaser": null
+      },{
+        "title": "Alfabet Braille'a - Informacje i ciekawostki",
+        "excerpt":"Już niebawem, bo 4 stycznia obchodzimy Światowy Dzień Braille’a. Jest to dzień urodzin Louis Braille -twórcy alfabetu dla niewidomych. Braille stracił wzrok w wieku niespełna 3 lat w wyniku wypadku, a pismo dotykowe stworzył w wieku 16 lat zainspirowany systemem korespondencji używanym przez francuską armię. Opis Alfabetu Braille Alfabet Braille’a...","categories": ["ciekawostki"],
+        "tags": [],
+        "url": "/ciekawostki/2024/12/02/alfabet-braille.html",
+        "teaser": null
       }]
