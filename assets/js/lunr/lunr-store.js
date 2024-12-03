@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "/ciekawostki/2024/12/02/alfabet-braille.html",
         "teaser": null
+      },{
+        "title": "Metoda 6 słoików - Efektywna metoda oszczędzania",
+        "excerpt":"Metoda 6 słoików to system zarządzania finansami stworzony przez Harva Ekera, amerykańskiego trenera motywacyjnego i guru finansowego. Polega ona na podziale miesięcznych dochodów na sześć różnych kategorii ( nie muszą być to równe części), co ma ułatwić zarządzanie wydatkami i oszczędzanie. Przykładowy podział w metodzie 6 słoików/ Oto jak wygląda...","categories": ["ciekawostki"],
+        "tags": [],
+        "url": "/ciekawostki/2024/12/03/metoda-6sloikow.html",
+        "teaser": null
       }]
